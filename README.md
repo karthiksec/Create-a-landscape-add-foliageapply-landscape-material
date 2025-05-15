@@ -28,11 +28,8 @@ To create a landscape in Unreal Engine, apply a custom landscape material, and a
 
 ## Output
 
-![Screenshot 2025-05-08 135337](https://github.com/user-attachments/assets/0b523414-9f03-42f5-b94a-20511cc851c6)
+![Screenshot 2025-03-21 113608](https://github.com/user-attachments/assets/39fdce24-a047-4421-b862-3264c6b7ddb5)
 
-
-
-![image](https://github.com/user-attachments/assets/e42a434b-86a3-48d6-a789-f02fb7eea43d)
 
 
 ## Result
